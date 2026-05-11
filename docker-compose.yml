@@ -19,8 +19,6 @@ services:
     restart: unless-stopped
     env_file: .env
     container_name: rewatch-backend
-    ports:
-      - "127.0.0.1:8000:8000"
     dns:
       - 9.9.9.9
       - 149.112.112.112
