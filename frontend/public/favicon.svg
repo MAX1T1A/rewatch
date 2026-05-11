@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#0f0f0f"/>
+  <!-- circular arrow (replay/rewatch) -->
+  <path d="M22.5 9.5a9 9 0 1 0 2.2 8" fill="none" stroke="#6c9cff" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- arrowhead -->
+  <polyline points="21 5.5 24.7 9.5 20.7 13" fill="none" stroke="#6c9cff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
